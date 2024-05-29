@@ -346,7 +346,7 @@ git_describe_command = [
   "v*.*"
 ]
 local_scheme = "no-local-version"
-write_to = "src/ansible_dev_environment/_version.py"
+write_to = "src/repo_comp/_version.py"
 
 [tool.tomlsort]
 in_place = true

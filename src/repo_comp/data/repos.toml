@@ -1,0 +1,17 @@
+[repos]
+
+[[repos.tox-ansible]]
+origin = "cidrblock/tox-ansible"
+upstream = "ansible/tox-ansible"
+
+[[repos.ansible-dev-tools]]
+origin = "cidrblock/ansible-dev-tools"
+upstream = "ansible/ansible-dev-tools"
+
+[[repos.ansible-creator]]
+origin = "cidrblock/ansible-creator"
+upstream = "ansible/ansible-creator"
+
+[[repos.ansible-dev-environment]]
+origin = "cidrblock/ansible-dev-environment"
+upstream = "ansible/ansible-dev-environment"
